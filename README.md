@@ -1,3 +1,5 @@
+![logo](https://github.com/IshikaBanga26/IshikaBanga26/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Ishika Banga</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
