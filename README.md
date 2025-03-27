@@ -1,4 +1,5 @@
 ![logo](https://github.com/IshikaBanga26/IshikaBanga26/blob/main/github-header-image%20(1).png)
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://img.freepik.com/premium-photo/female-developer-background_665280-9654.jpg?w=900">
 
 <h1 align="center">Hi 👋, I'm Ishika Banga</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
