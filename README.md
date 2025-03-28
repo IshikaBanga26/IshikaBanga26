@@ -1,4 +1,4 @@
-![logo](http://github.com/IshikaBanga26/IshikaBanga26/blob/main/Gray%20Black%20Honeycomb%20Technology%20Channel%20Youtube%20Banner.png)
+![logo](IshikaBanga26/Gray Black Honeycomb Technology Channel Youtube Banner.png)
 <img align="right" alt="coding" width=300 boder-radius=10 src="https://img.freepik.com/premium-photo/female-developer-background_665280-9654.jpg?w=900">
 
 <h1 align="center">Hi 👋, I'm Ishika Banga</h1>
