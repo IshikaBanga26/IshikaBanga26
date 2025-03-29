@@ -2,7 +2,7 @@
 <img align="right" alt="coding" width=300 boder-radius=10 src="https://img.freepik.com/premium-photo/female-developer-background_665280-9654.jpg?w=900">
 
 <h1 align="center">Hi 👋, I'm Ishika Banga</h1>
-<h3 align="center">Frontend Enthusiast|Exploring Backend</h3>
+<h3 align="center">Frontend Enthusiast | Exploring Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikabanga26&label=Profile%20views&color=0e75b6&style=flat" alt="ishikabanga26" /> </p>
 
