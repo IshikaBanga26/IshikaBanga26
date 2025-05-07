@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikabanga26&label=Profile%20views&color=0e75b6&style=flat" alt="ishikabanga26" /> </p>
 
-- 🔭 I’m currently working on **ConnecTide**
+- 🔭 I’m currently working on **shesells**
 
-- 🌱 I’m currently learning **Flask,Javascript**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **Women development in rural areas**
 
