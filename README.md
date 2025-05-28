@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking for team members for **Hackathons**
+- 👯 I’m looking for teammates to join me in upcoming **hackathons**.
 
 - 📫 How to reach me **ishikabanga01@gmail.com**
 
