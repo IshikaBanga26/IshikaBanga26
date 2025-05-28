@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **Women development in rural areas**
+- 👯 I’m looking for team members for **Hackathons**
 
 - 📫 How to reach me **ishikabanga01@gmail.com**
 
