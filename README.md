@@ -31,6 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikabanga26&show_icons=true&locale=en" alt="ishikabanga26" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IshikaBanga26&cache_seconds=86400)
-
 Support 🙏
