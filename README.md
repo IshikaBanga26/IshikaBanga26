@@ -31,6 +31,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikabanga26&show_icons=true&locale=en" alt="ishikabanga26" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikabanga26&" alt="ishikabanga26" /></p>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ishikabanga26&theme=default"
+    alt="GitHub Streak"
+  />
+</p>
 
 Support 🙏
