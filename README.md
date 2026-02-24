@@ -35,8 +35,12 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishikabanga26&show_icons=true&locale=en&layout=compact" alt="ishikabanga26" /></p>
+<a href="https://github.com/ishikabanga26" target="_blank">
+  <img src="https://img.shields.io/github/followers/ishikabanga26?logo=github&style=for-the-badge" alt="ishikabanga26" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishikabanga26&show_icons=true&locale=en" alt="ishikabanga26" /></p>
+<a href="https://github.com/ishikabanga26" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-IshikaBanga26-black?style=for-the-badge&logo=github" alt="ishikabanga26" />
+</a>
 
 Support 🙏
