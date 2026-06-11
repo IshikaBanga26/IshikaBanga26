@@ -38,12 +38,20 @@
 </a>
 </p>
 
-<a href="https://github.com/ishikabanga26" target="_blank">
-  <img src="https://img.shields.io/github/followers/ishikabanga26?logo=github&style=for-the-badge" alt="ishikabanga26" />
+<h3 align="left">GitHub:</h3>
+
+<p align="left">
+
+<a href="https://github.com/ishikabanga26">
+<img src="https://img.shields.io/github/followers/ishikabanga26?label=Followers&style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://github.com/ishikabanga26" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-IshikaBanga26-black?style=for-the-badge&logo=github" alt="ishikabanga26" />
+<a href="https://github.com/ishikabanga26">
+<img src="https://img.shields.io/badge/GitHub-IshikaBanga26-black?style=for-the-badge&logo=github" />
 </a>
 
-Support 🙏
+</p>
+
+<h3 align="center">
+🙏 Thanks for visiting my profile!
+</h3>
