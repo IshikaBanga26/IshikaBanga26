@@ -1,14 +1,24 @@
 <table>
 <tr>
-<td width="60%">
+<td width="60%" align="center">
 
 <h1>Hi 👋, I'm Ishika Banga</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;MERN+Learner;Problem+Solver" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;MERN+Learner;Problem+Solver" />
 
-### 💻 Web Developer | 🤖 AI Enthusiast
+<h3> Web Developer | AI Enthusiast</h3>
+
+<img src="https://komarev.com/ghpvc/?username=ishikabanga26&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" />
+
+</td>
+</tr>
+</table>
 
 <img src="https://komarev.com/ghpvc/?username=ishikabanga26&label=Profile%20Views&color=0e75b6&style=flat" />
 
