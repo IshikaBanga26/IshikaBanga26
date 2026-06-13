@@ -1,5 +1,3 @@
----
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Ishika Banga</h1>
@@ -35,7 +33,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,postgresql,git,github,vscode,wordpress,n8n" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,postgresql,git,github,wordpress" />
 </p>
 
 ---
