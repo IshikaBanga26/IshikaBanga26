@@ -1,16 +1,24 @@
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<table>
+<tr>
+<td width="60%">
 
-<h1 align="center">Hi 👋, I'm Ishika Banga</h1>
+<h1>Hi 👋, I'm Ishika Banga</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;MERN+Learner;Open+Source+Explorer;Problem+Solver" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&width=500&lines=Web+Developer;AI+Enthusiast;MERN+Learner;Problem+Solver/>
 
-<h3 align="center">💻 Web Developer | 🤖 AI Enthusiast</h3>
+### 💻 Web Developer | 🤖 AI Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ishikabanga26&label=Profile%20Views&color=0e75b6&style=flat" alt="ishikabanga26" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ishikabanga26&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,8 +63,11 @@
 </p>
 
 ---
+## ✨ LeetCode Card
 
+<p align="center">
 <img src="https://leetcard.jacoblin.cool/ishikabanga26?theme=dark&font=Poppins&ext=contest" />
+</p>
 
 ---
 
