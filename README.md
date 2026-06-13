@@ -4,7 +4,7 @@
 
 <h1>Hi 👋, I'm Ishika Banga</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&width=500&lines=Web+Developer;AI+Enthusiast;MERN+Learner;Problem+Solver/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&width=500&lines=Web+Developer;AI+Enthusiast;MERN+Learner;Problem+Solver" />
 
 ### 💻 Web Developer | 🤖 AI Enthusiast
 
