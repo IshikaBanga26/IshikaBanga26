@@ -20,18 +20,6 @@
 </tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=ishikabanga26&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</td>
-
-<td width="40%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🚀 About Me
